@@ -4,9 +4,12 @@
 import random
 import socket
 import threading
+import os
 
-print("--> Dd0s By Xalbador <--")
-print("#-- XALBADOR --#")
+os.system("clear")
+print("--> Autor : Xalbador  Code : XLBDR <--")
+print("-->        Dd0s By Xalbador <--")
+print("#--        XALBADOR NIH BOSS --#")
 ip = str(input(" DdosAttackByXalbador Ip:"))
 port = int(input(" DdosAttackByXalbador Port:"))
 choice = str(input(" DdosAttackByXalbador Gas Gak Ni?(y/n):"))
